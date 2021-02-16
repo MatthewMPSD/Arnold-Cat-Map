@@ -83,3 +83,5 @@ def main():
       xDir *= -1
 
   zag.save('zag.png')
+
+main()
